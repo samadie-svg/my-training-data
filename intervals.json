@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T22:42:32.617690",
+  "generated_at": "2026-06-25T10:22:59.321550",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -663,54 +663,6 @@
           "zone": 1,
           "training_load": 5.4636555,
           "decoupling": -30.737972
-        }
-      ]
-    },
-    {
-      "activity_id": "i155992607",
-      "date": "2026-06-10",
-      "type": "Ride",
-      "name": "Post-op recovery",
-      "interval_summary": [
-        "1x 12s 503w"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1121,
-          "avg_power": 202,
-          "max_power": 546,
-          "avg_hr": 124,
-          "max_hr": 174,
-          "avg_cadence": 65.83383,
-          "zone": 2,
-          "training_load": 14.615295,
-          "decoupling": 13.446167
-        },
-        {
-          "type": "WORK",
-          "label": "12s@503w70rpm",
-          "duration_secs": 12,
-          "avg_power": 503,
-          "max_power": 555,
-          "avg_hr": 124,
-          "max_hr": 134,
-          "avg_cadence": 70.0,
-          "zone": 7,
-          "training_load": 0.35020834,
-          "decoupling": 14.09588
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1462,
-          "avg_power": 207,
-          "max_power": 519,
-          "avg_hr": 140,
-          "max_hr": 180,
-          "avg_cadence": 64.48236,
-          "zone": 2,
-          "training_load": 21.28145,
-          "decoupling": -10.758703
         }
       ]
     },
