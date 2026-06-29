@@ -1,82 +1,10 @@
 {
-  "generated_at": "2026-06-28T23:55:16.834344",
+  "generated_at": "2026-06-29T14:51:10.941418",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i157059709",
-      "date": "2026-06-14",
-      "type": "Ride",
-      "name": "High School Reunion \ud83d\ude02",
-      "interval_summary": [
-        "1x 52s 377w",
-        "1x 1m43s 309w"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 2281,
-          "avg_power": 188,
-          "max_power": 645,
-          "avg_hr": 128,
-          "max_hr": 151,
-          "avg_cadence": 61.924816,
-          "zone": 2,
-          "training_load": 20.44871
-        },
-        {
-          "type": "WORK",
-          "label": "52s@377w71rpm",
-          "duration_secs": 52,
-          "avg_power": 377,
-          "max_power": 471,
-          "avg_hr": 141,
-          "max_hr": 152,
-          "avg_cadence": 71.21154,
-          "zone": 5,
-          "training_load": 1.6019933,
-          "decoupling": 17.742157
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 11309,
-          "avg_power": 185,
-          "max_power": 717,
-          "avg_hr": 130,
-          "max_hr": 162,
-          "avg_cadence": 72.9497,
-          "zone": 2,
-          "training_load": 82.58202
-        },
-        {
-          "type": "WORK",
-          "label": "103s@309w63rpm",
-          "duration_secs": 103,
-          "avg_power": 309,
-          "max_power": 352,
-          "avg_hr": 141,
-          "max_hr": 152,
-          "avg_cadence": 63.31068,
-          "zone": 4,
-          "training_load": 2.4315252,
-          "decoupling": 3.1670823
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1366,
-          "avg_power": 159,
-          "max_power": 621,
-          "avg_hr": 127,
-          "max_hr": 159,
-          "avg_cadence": 52.926807,
-          "zone": 1,
-          "training_load": 15.434702,
-          "decoupling": -2.5489101
-        }
-      ]
-    },
     {
       "activity_id": "i157589470",
       "date": "2026-06-16",
