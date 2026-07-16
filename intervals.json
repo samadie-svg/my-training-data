@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T07:03:07.227932",
+  "generated_at": "2026-07-16T09:28:23.130444",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -1915,6 +1915,27 @@
           "zone": 1,
           "training_load": 2.4556026,
           "decoupling": 38.281696
+        }
+      ]
+    },
+    {
+      "activity_id": "i166216819",
+      "date": "2026-07-16",
+      "type": "VirtualRide",
+      "name": "MyWhoosh - Endurance with 30sec Surges",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3278,
+          "avg_power": 158,
+          "max_power": 467,
+          "avg_hr": 117,
+          "max_hr": 141,
+          "avg_cadence": 70.18273,
+          "zone": 1,
+          "training_load": 28.895975,
+          "decoupling": 7.4870443
         }
       ]
     }
