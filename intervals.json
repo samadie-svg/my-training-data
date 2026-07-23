@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T09:59:38.113349",
+  "generated_at": "2026-07-23T11:58:22.350544",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -1803,6 +1803,27 @@
           "zone": 1,
           "training_load": 3.1388993,
           "decoupling": -80.10845
+        }
+      ]
+    },
+    {
+      "activity_id": "i168378658",
+      "date": "2026-07-23",
+      "type": "Ride",
+      "name": "TC Tempo",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2975,
+          "avg_power": 259,
+          "max_power": 629,
+          "avg_hr": 157,
+          "max_hr": 171,
+          "avg_cadence": 76.2934,
+          "zone": 3,
+          "training_load": 62.070988,
+          "decoupling": 2.8835418
         }
       ]
     }
