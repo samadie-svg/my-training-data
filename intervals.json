@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T23:31:45.105368",
+  "generated_at": "2026-08-01T01:16:43.869031",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -1756,6 +1756,26 @@
           "zone": 1,
           "training_load": 0.3081809,
           "decoupling": 73.783844
+        }
+      ]
+    },
+    {
+      "activity_id": "i171221088",
+      "date": "2026-08-01",
+      "type": "Ride",
+      "name": "Sydney Road Cycling",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1388,
+          "avg_power": 122,
+          "max_power": 434,
+          "avg_hr": 106,
+          "max_hr": 129,
+          "avg_cadence": 46.747524,
+          "zone": 1,
+          "training_load": 2.9171193
         }
       ]
     }
