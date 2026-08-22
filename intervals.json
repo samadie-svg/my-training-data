@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:59:58.348185",
+  "generated_at": "2026-08-22T01:45:11.285222",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -1516,6 +1516,26 @@
           "zone": 4,
           "training_load": 4.4658885,
           "decoupling": 6.585861
+        }
+      ]
+    },
+    {
+      "activity_id": "i178427126",
+      "date": "2026-08-22",
+      "type": "Ride",
+      "name": "Coffee with Mo",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 6398,
+          "avg_power": 158,
+          "max_power": 433,
+          "avg_hr": 122,
+          "max_hr": 180,
+          "avg_cadence": 65.451904,
+          "zone": 1,
+          "training_load": 42.735844
         }
       ]
     }
