@@ -1,83 +1,10 @@
 {
-  "generated_at": "2026-08-31T20:50:49.185758",
+  "generated_at": "2026-09-01T00:27:06.880869",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i176704652",
-      "date": "2026-08-17",
-      "type": "VirtualRide",
-      "name": "MyWhoosh - Sam's Threshold Efforts",
-      "interval_summary": [
-        "1x 88s 309w",
-        "1x 3m14s 274w"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 687,
-          "avg_power": 160,
-          "max_power": 304,
-          "avg_hr": 114,
-          "max_hr": 133,
-          "avg_cadence": 76.2722,
-          "zone": 1,
-          "training_load": 6.4196334
-        },
-        {
-          "type": "WORK",
-          "label": "88s@309w89rpm",
-          "duration_secs": 88,
-          "avg_power": 309,
-          "max_power": 350,
-          "avg_hr": 143,
-          "max_hr": 152,
-          "avg_cadence": 88.76136,
-          "zone": 4,
-          "training_load": 2.460768,
-          "decoupling": 3.402725
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 853,
-          "avg_power": 223,
-          "max_power": 508,
-          "avg_hr": 136,
-          "max_hr": 163,
-          "avg_cadence": 80.20047,
-          "zone": 2,
-          "training_load": 17.797161,
-          "decoupling": 3.5409386
-        },
-        {
-          "type": "WORK",
-          "label": "194s@274w80rpm",
-          "duration_secs": 194,
-          "avg_power": 274,
-          "max_power": 351,
-          "avg_hr": 144,
-          "max_hr": 151,
-          "avg_cadence": 80.175255,
-          "zone": 4,
-          "training_load": 4.4299064,
-          "decoupling": 10.856671
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 883,
-          "avg_power": 206,
-          "max_power": 527,
-          "avg_hr": 134,
-          "max_hr": 162,
-          "avg_cadence": 81.68403,
-          "zone": 2,
-          "training_load": 17.033178,
-          "decoupling": -1.7012162
-        }
-      ]
-    },
     {
       "activity_id": "i177508875",
       "date": "2026-08-19",
