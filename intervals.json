@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T22:57:09.654904",
+  "generated_at": "2026-09-05T00:48:40.255437",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -1824,6 +1824,54 @@
           "zone": 1,
           "training_load": 5.116271,
           "decoupling": -11.113213
+        }
+      ]
+    },
+    {
+      "activity_id": "i183416741",
+      "date": "2026-09-05",
+      "type": "Ride",
+      "name": "SMC \"Advanced\" Coffee",
+      "interval_summary": [
+        "1x 13s 544w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 8665,
+          "avg_power": 173,
+          "max_power": 702,
+          "avg_hr": 118,
+          "max_hr": 152,
+          "avg_cadence": 59.329437,
+          "zone": 1,
+          "training_load": 61.500965,
+          "decoupling": -0.16035986
+        },
+        {
+          "type": "WORK",
+          "label": "13s@544w72rpm",
+          "duration_secs": 13,
+          "avg_power": 544,
+          "max_power": 611,
+          "avg_hr": 154,
+          "max_hr": 156,
+          "avg_cadence": 72.38461,
+          "zone": 7,
+          "training_load": 0.6419753,
+          "decoupling": -5.4529867
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 553,
+          "avg_power": 171,
+          "max_power": 511,
+          "avg_hr": 124,
+          "max_hr": 157,
+          "avg_cadence": 55.161972,
+          "zone": 1,
+          "training_load": 5.9417286,
+          "decoupling": 10.970723
         }
       ]
     }
