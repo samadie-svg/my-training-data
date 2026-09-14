@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T00:15:25.687906",
+  "generated_at": "2026-09-14T05:19:03.201050",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -2763,6 +2763,53 @@
           "zone": 2,
           "training_load": 48.951607,
           "decoupling": 0.07282164
+        }
+      ]
+    },
+    {
+      "activity_id": "i186449639",
+      "date": "2026-09-14",
+      "type": "Ride",
+      "name": "The Great Ocean Road",
+      "interval_summary": [
+        "1x 1m50s 296w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1151,
+          "avg_power": 124,
+          "max_power": 408,
+          "avg_hr": 104,
+          "max_hr": 128,
+          "avg_cadence": 55.17463,
+          "zone": 1,
+          "training_load": 8.561048,
+          "decoupling": -3.48844
+        },
+        {
+          "type": "WORK",
+          "label": "110s@296w49rpm",
+          "duration_secs": 110,
+          "avg_power": 296,
+          "max_power": 359,
+          "avg_hr": 129,
+          "max_hr": 143,
+          "avg_cadence": 48.927273,
+          "zone": 4,
+          "training_load": 2.4488788,
+          "decoupling": 13.24295
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 14062,
+          "avg_power": 156,
+          "max_power": 846,
+          "avg_hr": 115,
+          "max_hr": 153,
+          "avg_cadence": 57.967823,
+          "zone": 1,
+          "training_load": 121.48254
         }
       ]
     }
