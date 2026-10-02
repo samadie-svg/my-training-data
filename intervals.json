@@ -1,133 +1,10 @@
 {
-  "generated_at": "2026-10-01T23:01:48.775435",
+  "generated_at": "2026-10-02T02:16:42.992735",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i187569085",
-      "date": "2026-09-17",
-      "type": "Ride",
-      "name": "SMC Chop",
-      "interval_summary": [
-        "4x 31s 348w"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 358,
-          "avg_power": 103,
-          "max_power": 521,
-          "avg_hr": 94,
-          "max_hr": 147,
-          "avg_cadence": 36.086956,
-          "zone": 1,
-          "training_load": 2.4832094,
-          "decoupling": -47.242905
-        },
-        {
-          "type": "WORK",
-          "label": "31s@348w74rpm",
-          "duration_secs": 32,
-          "avg_power": 335,
-          "max_power": 438,
-          "avg_hr": 150,
-          "max_hr": 157,
-          "avg_cadence": 78.96875,
-          "zone": 5,
-          "training_load": 0.9116072,
-          "decoupling": -10.4024
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1485,
-          "avg_power": 252,
-          "max_power": 691,
-          "avg_hr": 156,
-          "max_hr": 167,
-          "avg_cadence": 70.14141,
-          "zone": 3,
-          "training_load": 31.438965,
-          "decoupling": 3.4195404
-        },
-        {
-          "type": "WORK",
-          "label": "31s@348w74rpm",
-          "duration_secs": 33,
-          "avg_power": 370,
-          "max_power": 540,
-          "avg_hr": 153,
-          "max_hr": 158,
-          "avg_cadence": 67.969696,
-          "zone": 5,
-          "training_load": 0.7876913,
-          "decoupling": 0.96305645
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 616,
-          "avg_power": 247,
-          "max_power": 628,
-          "avg_hr": 156,
-          "max_hr": 165,
-          "avg_cadence": 66.78734,
-          "zone": 3,
-          "training_load": 13.23173,
-          "decoupling": -0.2653891
-        },
-        {
-          "type": "WORK",
-          "label": "31s@348w74rpm",
-          "duration_secs": 29,
-          "avg_power": 335,
-          "max_power": 403,
-          "avg_hr": 164,
-          "max_hr": 170,
-          "avg_cadence": 74.86207,
-          "zone": 5,
-          "training_load": 1.0580076,
-          "decoupling": 5.9519453
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 31,
-          "avg_power": 302,
-          "max_power": 567,
-          "avg_hr": 169,
-          "max_hr": 171,
-          "avg_cadence": 72.19355,
-          "zone": 4,
-          "training_load": 1.0329428,
-          "decoupling": 35.647156
-        },
-        {
-          "type": "WORK",
-          "label": "31s@348w74rpm",
-          "duration_secs": 30,
-          "avg_power": 351,
-          "max_power": 456,
-          "avg_hr": 169,
-          "max_hr": 171,
-          "avg_cadence": 72.36667,
-          "zone": 5,
-          "training_load": 0.7558579,
-          "decoupling": -19.455645
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 14,
-          "avg_power": 104,
-          "max_power": 312,
-          "avg_hr": 169,
-          "max_hr": 170,
-          "avg_cadence": 66.21429,
-          "zone": 1,
-          "training_load": 0.35745248,
-          "decoupling": 28.831987
-        }
-      ]
-    },
     {
       "activity_id": "i188073035",
       "date": "2026-09-19",
@@ -2278,6 +2155,80 @@
           "zone": 1,
           "training_load": 0.8183519,
           "decoupling": 59.169857
+        }
+      ]
+    },
+    {
+      "activity_id": "i192450720",
+      "date": "2026-10-02",
+      "type": "Ride",
+      "name": "Shellharbour Road Cycling",
+      "interval_summary": [
+        "1x 34s 486w",
+        "1x 11s 553w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1142,
+          "avg_power": 221,
+          "max_power": 476,
+          "avg_hr": 149,
+          "max_hr": 180,
+          "avg_cadence": 68.51408,
+          "zone": 2,
+          "training_load": 18.183674,
+          "decoupling": -8.927251
+        },
+        {
+          "type": "WORK",
+          "label": "34s@486w62rpm",
+          "duration_secs": 34,
+          "avg_power": 486,
+          "max_power": 560,
+          "avg_hr": 161,
+          "max_hr": 172,
+          "avg_cadence": 61.794117,
+          "zone": 7,
+          "training_load": 1.751741,
+          "decoupling": 8.142549
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 366,
+          "avg_power": 227,
+          "max_power": 572,
+          "avg_hr": 147,
+          "max_hr": 180,
+          "avg_cadence": 71.64901,
+          "zone": 2,
+          "training_load": 6.4440246,
+          "decoupling": 10.6361
+        },
+        {
+          "type": "WORK",
+          "label": "11s@553w84rpm",
+          "duration_secs": 11,
+          "avg_power": 553,
+          "max_power": 639,
+          "avg_hr": 149,
+          "max_hr": 152,
+          "avg_cadence": 84.27273,
+          "zone": 7,
+          "training_load": 0.23798998,
+          "decoupling": 5.965408
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 251,
+          "avg_power": 184,
+          "max_power": 611,
+          "avg_hr": 148,
+          "max_hr": 159,
+          "avg_cadence": 50.072876,
+          "zone": 2,
+          "training_load": 4.852949,
+          "decoupling": 4.591864
         }
       ]
     }
