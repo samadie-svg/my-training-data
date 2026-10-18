@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-10-18T00:23:47.746734",
+    "last_updated": "2026-10-18T04:58:30.337174",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.112"
@@ -627,7 +627,7 @@
     "p_max": 1368,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-10-18T00:23:47.745454",
+    "calculation_timestamp": "2026-10-18T04:58:30.336289",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 4,
@@ -645,7 +645,7 @@
       "id": "i198472516",
       "date": "2026-10-18T05:53:12",
       "type": "Ride",
-      "name": "Shellharbour Road Cycling",
+      "name": "Avondale / Lake / Coffee with Mo and Yehia",
       "duration_hours": 2.22,
       "distance_km": 60.48,
       "tss": 92,
