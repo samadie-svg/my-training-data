@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T22:35:21.851302",
+  "generated_at": "2026-10-18T00:23:47.073440",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -1757,6 +1757,26 @@
           "zone": 2,
           "training_load": 6.2750525,
           "decoupling": 12.632347
+        }
+      ]
+    },
+    {
+      "activity_id": "i198472516",
+      "date": "2026-10-18",
+      "type": "Ride",
+      "name": "Shellharbour Road Cycling",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 12661,
+          "avg_power": 168,
+          "max_power": 723,
+          "avg_hr": 119,
+          "max_hr": 167,
+          "avg_cadence": 69.46635,
+          "zone": 1,
+          "training_load": 92.23312
         }
       ]
     }
