@@ -1,38 +1,10 @@
 {
-  "generated_at": "2026-10-27T20:59:29.054699",
+  "generated_at": "2026-10-28T00:25:35.695731",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i196658625",
-      "date": "2026-10-13",
-      "type": "Ride",
-      "name": "Cairns sightseeing",
-      "interval_summary": [
-        "1x 40m44s 118bpm",
-        "1x 3h26m 126bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "2444s@118bpm",
-          "duration_secs": 2444,
-          "avg_hr": 118,
-          "max_hr": 139,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "12391s@126bpm",
-          "duration_secs": 12391,
-          "avg_hr": 126,
-          "max_hr": 167,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i197829079",
       "date": "2026-10-16",
@@ -2633,6 +2605,27 @@
           "avg_cadence": 59.103447,
           "zone": 2,
           "training_load": 2.6520343
+        }
+      ]
+    },
+    {
+      "activity_id": "i202484229",
+      "date": "2026-10-28",
+      "type": "VirtualRide",
+      "name": "Quick Recovery spin",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 907,
+          "avg_power": 151,
+          "max_power": 694,
+          "avg_hr": 109,
+          "max_hr": 120,
+          "avg_cadence": 78.72657,
+          "zone": 1,
+          "training_load": 6.639016,
+          "decoupling": 2.2951584
         }
       ]
     }
