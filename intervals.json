@@ -1,31 +1,10 @@
 {
-  "generated_at": "2026-11-11T20:07:27.339824",
+  "generated_at": "2026-11-12T01:54:35.907290",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i202484229",
-      "date": "2026-10-28",
-      "type": "VirtualRide",
-      "name": "Quick Recovery spin",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 907,
-          "avg_power": 151,
-          "max_power": 694,
-          "avg_hr": 109,
-          "max_hr": 120,
-          "avg_cadence": 78.72657,
-          "zone": 1,
-          "training_load": 6.639016,
-          "decoupling": 2.2951584
-        }
-      ]
-    },
     {
       "activity_id": "i203342364",
       "date": "2026-10-30",
