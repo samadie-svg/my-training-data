@@ -1,31 +1,10 @@
 {
-  "generated_at": "2026-11-22T20:50:09.366453",
+  "generated_at": "2026-11-23T01:27:15.627172",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i207177526",
-      "date": "2026-11-08",
-      "type": "Ride",
-      "name": "Recovery + Ziyara",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 5086,
-          "avg_power": 166,
-          "max_power": 783,
-          "avg_hr": 120,
-          "max_hr": 151,
-          "avg_cadence": 66.88995,
-          "zone": 1,
-          "training_load": 50.78245,
-          "decoupling": 3.814796
-        }
-      ]
-    },
     {
       "activity_id": "i208052388",
       "date": "2026-11-10",
